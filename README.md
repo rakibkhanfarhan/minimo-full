@@ -1,0 +1,2 @@
+# minimo-full
+homework
